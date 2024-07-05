@@ -1,6 +1,6 @@
 function Sabores() {
     return (
-      <div className="container">
+      <div className="container" style={{marginTop: "35px", textAlign: "center"}}>
       <div className="row">
         <div className="col-md-12">
           <h2>Selecione a categoria</h2>

@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Cabecalho from './componentes/Cabecalho';
 import Carrosel from './componentes/Carrosel';
@@ -14,8 +13,8 @@ function App() {
     <>
     <Cabecalho></Cabecalho>
     <Carrosel></Carrosel>
-    <Sabores></Sabores>
-   <Vitrine></Vitrine>
+    {/* <Sabores></Sabores> */}
+    <Vitrine></Vitrine>
     <Pedidos></Pedidos>
     <Sobre></Sobre> 
   
